@@ -1,4 +1,4 @@
-# # {{ site.title }}
+# {{ title }}
 # Education
 
 - Bioengineering, PhD.
