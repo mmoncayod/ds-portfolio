@@ -45,15 +45,16 @@
   + Conclusions and future steps
 
 + **Genetic Diversity Analysis in _Diaphorina citri_ Using Mitochondrial DNA Sequencing**
-  + **Overview:** To analyze the mitochondrial DNA sequences of _Diaphorina citri_ to assess genetic diversity and population structure, and predict potential spread and evolution of the citrus greening disease.
-  + Data collection
-  + Data cleaning and preprocessing
-  + Exploratory data analysis (EDA)
-  + Feature engineering
-  + Model selection
-  + Model training
-  + Model evaluation
-  + Model deployment
-  + Conclusions and future steps
+  + **Objective:** To analyze the mitochondrial DNA sequences of _Diaphorina citri_ to assess genetic diversity and population structure, and predict potential spread and evolution of the citrus greening disease.
+  + **Overview:** _Diaphorina citri_, the Asian citrus psyllid, is a vector for the bacterium Candidatus Liberibacter which causes the citrus greening disease, severely impacting citrus production worldwide. Understanding the genetic variation within _D. citri_ populations is crucial for developing effective management strategies against the spread of the disease.
+  + **Data collection:** The project utilized mitochondrial DNA sequences of D. citri collected from eight locations across two Colombian regions, Valle del Cauca and Quindío. Three different DNA extraction methods were evaluated to optimize the quality and yield of genetic material for sequencing.
+  + **Data cleaning and preprocessing:**
+  + **Exploratory data analysis (EDA):**
+  + **Feature engineering:**
+  + **Model selection:**
+  + **Model training:**
+  + **Model evaluation:**
+  + **Model deployment:**
+  + **Conclusions and future steps:**
 
 
