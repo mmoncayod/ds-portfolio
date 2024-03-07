@@ -40,3 +40,6 @@
 
 **Product recommendation system for restaurants**
 **ML model to create personalized treatment protocols for pets**
+
+![Texto alternativo](/assets/img/Miguel-1.jpg){: .rounded-image}
+
