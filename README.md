@@ -44,8 +44,9 @@
   + Model deployment
   + Conclusions and future steps
 
-+ **Product recommendation system for restaurants**
++ **Genetic Diversity Analysis in _Diaphorina citri_ Using Mitochondrial DNA Sequencing**
   + Overview
+    To analyze the mitochondrial DNA sequences of _Diaphorina citri_ to assess genetic diversity and population structure, and predict potential spread and evolution of the citrus greening disease.
   + Data collection
   + Data cleaning and preprocessing
   + Exploratory data analysis (EDA)
