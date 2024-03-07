@@ -20,6 +20,29 @@
 + **Frontend Web Developer** - Freelance
 
 # Projects
++ **ML model to create personalized treatment protocols for pets**
+  + Overview
+  + Data collection
+  + Data cleaning and preprocessing
+  + Exploratory data analysis (EDA)
+  + Feature engineering
+  + Model selection
+  + Model training
+  + Model evaluation
+  + Model deployment
+  + Conclusions and future steps
+    
++ **Product recommendation system for restaurants**
+  + Overview
+  + Data collection
+  + Data cleaning and preprocessing
+  + Exploratory data analysis (EDA)
+  + Feature engineering
+  + Model selection
+  + Model training
+  + Model evaluation
+  + Model deployment
+  + Conclusions and future steps
 
 + **Product recommendation system for restaurants**
   + Overview
@@ -32,9 +55,5 @@
   + Model evaluation
   + Model deployment
   + Conclusions and future steps
-+ **ML model to create personalized treatment protocols for pets**
-
-
-
 
 
