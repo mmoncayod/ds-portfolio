@@ -21,8 +21,8 @@
 
 # Projects
 
-+ Product recommendation system for restaurants
-+ ML model to create personalized treatment protocols for pets
++ **Product recommendation system for restaurants**
++ **ML model to create personalized treatment protocols for pets**
 
 
 
