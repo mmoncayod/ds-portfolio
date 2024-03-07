@@ -1,5 +1,5 @@
 #title: Miguel Ángel MD. / Data Science Portfolio
 #logo: /assets/img/Miguel-1.jpg
 #show_downloads: True
-#theme: jekyll-theme-tactile 
-remote_theme: pages-themes/tactile@v0.2.0
+theme: jekyll-theme-tactile 
+#remote_theme: pages-themes/tactile@v0.2.0
