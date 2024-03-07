@@ -3,32 +3,40 @@
 # Experience
 
 ## MY PET CITY
-**Data Scientist**  
+**_Data Scientist_**  
+
 ## Raiil
-**CPO & Co-Founder @Raiil | AI | SaaS | E-commerce**  
-**CEO & Co-founder**  
+**_CPO & Co-Founder @Raiil | AI | SaaS | E-commerce_**  
+**_CEO & Co-founder_**  
+
 ## BioExpert Network
-**Startup Analyst**  
+**_Startup Analyst_**  
+
 ## Universidad Militar Nueva Granada
-**Professor in Bioengineering**  
+**_Professor in Bioengineering_**  
+
 ## Superintendencia de Industria y Comercio
-**Patent Analyst in Biotech/Pharma (Government Patent Office)**  
+**_Patent Analyst in Biotech/Pharma (Government Patent Office)_**  
+
 ## Andalucian Centre for Nanomedicine and Biotechnology (BIONAND)
-**Research Stay**  
+**_Research Stay_**  
+
 ## Regencol
-**Internal Strategy and Data Consultant**  
+**_Internal Strategy and Data Consultant_**  
+
 ## Editorial Amolca
-**Medical Translator**  
+**_Medical Translator_**  
+
 ## Freelance
-**Frontend Web Developer**  
+**_Frontend Web Developer_**  
 
 # Education
 
-Bioengineering, PhD.
-Bioengineering, MsC.
-Biologist
+**_Bioengineering, PhD._**
+**_Bioengineering, MsC._**
+**_Biologist_**
 
 # Projects 
 
-Product recommendation system for restaurants
-ML model to create personalized treatment protocols for pets
+**Product recommendation system for restaurants**
+**ML model to create personalized treatment protocols for pets**
