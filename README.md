@@ -64,18 +64,19 @@
 
     Phred quality scores tell you the reliability of each base read during sequencing. By trimming sequences based on these scores, you are removing sections of sequences with a high probability of being in error, which can distort your results during alignment and subsequent analyses.
 
-    + **Saving the trimmed sequences for alignment in Clutscal Omega **
+    + ** Saving the trimmed sequences for alignment in Clutscal Omega **
        ![Texto alternativo](/assets/img/trimmed-1.png)
 
       See the complete code to save the trimmed sequences based on Phed System in [link](https://github.com/mmoncayod/ds-portfolio)
    
     + **Sequence aligning**
+      
       + First: Assemble forward and reverse reads to obtain complete sequences for each sample 
       + Second: Align those sequences within each population to compare between samples - Biopython
         
-    ![Texto alternativo](/assets/img/concensus_sequence.png)
+      ![Texto alternativo](/assets/img/concensus_sequence_1.png)
 
- See the complete code to get consensus sequences in [link](https://github.com/mmoncayod/ds-portfolio)
+      See the complete code to get consensus sequences in [link](https://github.com/mmoncayod/ds-portfolio)
 
   + **Exploratory data analysis (EDA):**
   + **Feature engineering:**
