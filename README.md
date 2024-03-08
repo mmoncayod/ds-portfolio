@@ -50,15 +50,9 @@
   + **Overview:** _Diaphorina citri_, the Asian citrus psyllid, is a vector for the bacterium _Candidatus Liberibacter_ which causes the citrus greening disease, severely impacting citrus production worldwide and understanding the genetic variation within _D. citri_ populations is crucial for developing effective management strategies against the spread of the disease.
     
   + **Extract-Transform-Load:** The project utilized mitochondrial DNA sequences of _D. citri_ collected from eight locations across two Colombian regions, Valle del Cauca and Quindío. **Macrogen Korea sequenced mitochondrial DNA.**
+    + Phred quality system as criteria for sequence cutting
+      ![Texto alternativo]([URL_de_la_imagen "Título opcional"](https://drive.google.com/file/d/1J306Pz4ANvc3Bdwt-OBaFVAS3S_Ouirm/view?usp=drive_link))
 
-from Bio import SeqIO
-for ab1_file in ab1_files:
-    file_path = os.path.join(ab1_directory, ab1_file)
-    record = SeqIO.read(file_path, 'abi')
-    print(f"ID: {record.id}")
-    print(f"Sequence length: {len(record)}")
-    # Quality punctuation print
-    print(record.letter_annotations["phred_quality"])
 
 
 
