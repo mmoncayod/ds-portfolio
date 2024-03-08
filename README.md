@@ -67,7 +67,7 @@
     + **Saving the trimmed sequences for alignment in Clutscal Omega **
        ![Texto alternativo](/assets/img/trimmed-1.png)
 
-      See the complete code to save the trimmed sequences based on Phed System in: [link text]([https://](https://github.com/mmoncayod/ds-portfolio))
+      See the complete code to save the trimmed sequences based on Phed System in [link](https://github.com/mmoncayod/ds-portfolio)
 
   + **Exploratory data analysis (EDA):**
   + **Feature engineering:**
