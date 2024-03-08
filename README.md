@@ -71,11 +71,26 @@
    
     + **Sequence aligning**
       
-      + First: Assemble forward and reverse reads to obtain complete sequences for each sample 
-      + Second: Align those sequences within each population to compare between samples - Biopython
-        
+      + First: Assemble forward and reverse reads to obtain complete sequences for each sample
+   
+        + Function to create consensus sequences
+     
       ![Texto alternativo](/assets/img/concensus_sequence_1.png)
-
+   
+        + Function to check and merge FASTA files
+      
+      ![Texto alternativo](/assets/img/concensus_sequence_2.png)
+   
+      + Second: Align those sequences within each population to compare between samples - Biopython
+     
+      + Aligned sequences for E population
+   
+      ![Texto alternativo](/assets/img/aligned_sequence_E.png)
+   
+      + Aligned sequences for V population
+   
+      ![Texto alternativo](/assets/img/aligned_sequence_V.png)
+      
       See the complete code to get consensus sequences in [link](https://github.com/mmoncayod/ds-portfolio)
 
   + **Exploratory data analysis (EDA):**
