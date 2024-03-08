@@ -51,6 +51,17 @@
     
   + **Extract-Transform-Load:** The project utilized mitochondrial DNA sequences of _D. citri_ collected from eight locations across two Colombian regions, Valle del Cauca and Quindío. **Macrogen Korea sequenced mitochondrial DNA.**
 
+from Bio import SeqIO
+for ab1_file in ab1_files:
+    file_path = os.path.join(ab1_directory, ab1_file)
+    record = SeqIO.read(file_path, 'abi')
+    print(f"ID: {record.id}")
+    print(f"Sequence length: {len(record)}")
+    # Quality punctuation print
+    print(record.letter_annotations["phred_quality"])
+
+
+
   + **Exploratory data analysis (EDA):**
   + **Feature engineering:**
   + **Model selection:**
