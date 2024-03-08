@@ -32,7 +32,7 @@
   + Model deployment
   + Conclusions and future steps
     
-+ ##**Product recommendation system for restaurants**
++ ## **Product recommendation system for restaurants**
   + Overview
   + Data collection
   + Data cleaning and preprocessing
@@ -41,11 +41,11 @@
   + Model selection
   + Model training
   + Model evaluation
-  + Model deployment
+  + Model Deployment
   + Conclusions and future steps
 
 + ## **Genetic Diversity Analysis in _Diaphorina citri_ Using Mitochondrial DNA Sequencing**
-  + **Objective:** To analyze the mitochondrial DNA sequences of _Diaphorina citri_ to assess genetic diversity and population structure, and predict potential spread and evolution of the citrus greening disease.
+  + **Objective:** To analyze the mitochondrial DNA sequences of _Diaphorina citri_ to assess genetic diversity and population structure, and predict the potential spread and evolution of the citrus greening disease.
     
   + **Overview:** _Diaphorina citri_, the Asian citrus psyllid, is a vector for the bacterium _Candidatus Liberibacter_ which causes the citrus greening disease, severely impacting citrus production worldwide and understanding the genetic variation within _D. citri_ populations is crucial for developing effective management strategies against the spread of the disease.
     
@@ -58,11 +58,16 @@
       ![Texto alternativo](/assets/img/phred_results.png)
 
      + Where:
-      ++ Scores of 20 or more: High quality, with an error rate of 1% or less.
-      ++ Scores of 30 or more: Very high quality, with an error rate of 0.1% or less.
-      ++ Scores below 20: Low to moderate quality, with an error rate greater than 1%.
+      + Scores of 20 or more: High quality, with an error rate of 1% or less.
+      + Scores of 30 or more: Very high quality, with an error rate of 0.1% or less.
+      + Scores below 20: Low to moderate quality, with an error rate greater than 1%.
 
-Phred quality scores tell you the reliability of each base read during sequencing. By trimming sequences based on these scores, you are removing sections of sequences that have a high probability of being in error, which can distort your results during alignment and subsequent analyses.
+    Phred quality scores tell you the reliability of each base read during sequencing. By trimming sequences based on these scores, you are removing sections of sequences with a high probability of being in error, which can distort your results during alignment and subsequent analyses.
+
+    + **Saving the trimmed sequences for alignment in Clutscal Omega **
+       ![Texto alternativo](/assets/img/trimmed-1.png)
+
+      See the complete code to save the trimmed sequences based on Phed System in: [link text]([https://](https://github.com/mmoncayod/ds-portfolio))
 
   + **Exploratory data analysis (EDA):**
   + **Feature engineering:**
