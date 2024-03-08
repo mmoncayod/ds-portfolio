@@ -45,11 +45,11 @@
   + Conclusions and future steps
 
 + ## **Genetic Diversity Analysis in _Diaphorina citri_ Using Mitochondrial DNA Sequencing**
-  + **Objective:** To analyze the mitochondrial DNA sequences of _Diaphorina citri_ to assess genetic diversity and population structure, and predict the potential spread and evolution of the citrus greening disease.
+  + ### **Objective:** To analyze the mitochondrial DNA sequences of _Diaphorina citri_ to assess genetic diversity and population structure, and predict the potential spread and evolution of the citrus greening disease.
     
-  + **Overview:** _Diaphorina citri_, the Asian citrus psyllid, is a vector for the bacterium _Candidatus Liberibacter_ which causes the citrus greening disease, severely impacting citrus production worldwide and understanding the genetic variation within _D. citri_ populations is crucial for developing effective management strategies against the spread of the disease.
+  + ### **Overview:** _Diaphorina citri_, the Asian citrus psyllid, is a vector for the bacterium _Candidatus Liberibacter_ which causes the citrus greening disease, severely impacting citrus production worldwide and understanding the genetic variation within _D. citri_ populations is crucial for developing effective management strategies against the spread of the disease.
     
-  + **Extract-Transform-Load:** The project utilized mitochondrial DNA sequences of _D. citri_ collected from eight locations across two Colombian regions, Valle del Cauca and Quindío. **Macrogen Korea sequenced mitochondrial DNA.**
+  + ### **Extract-Transform-Load:** The project utilized mitochondrial DNA sequences of _D. citri_ collected from eight locations across two Colombian regions, Valle del Cauca and Quindío. **Macrogen Korea sequenced mitochondrial DNA.**
 
      + **Phed quality system as criteria for sequence cutting**
       ![Texto alternativo](/assets/img/prhed_punctuation.png)
@@ -93,7 +93,7 @@
       
       See the complete code to get consensus sequences in [link](https://github.com/mmoncayod/ds-portfolio)
 
-  + **Exploratory data analysis (EDA):**
+  + ### **Exploratory data analysis (EDA):**
   + **Feature engineering:**
   + **Model selection:**
   + **Model training:**
