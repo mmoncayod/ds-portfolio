@@ -68,6 +68,14 @@
        ![Texto alternativo](/assets/img/trimmed-1.png)
 
       See the complete code to save the trimmed sequences based on Phed System in [link](https://github.com/mmoncayod/ds-portfolio)
+   
+    + **Sequence aligning**
+      + First: Assemble forward and reverse reads to obtain complete sequences for each sample 
+      + Second: Align those sequences within each population to compare between samples - Biopython
+        
+    ![Texto alternativo](/assets/img/concensus_sequence.png)
+
+ See the complete code to get consensus sequences in [link](https://github.com/mmoncayod/ds-portfolio)
 
   + **Exploratory data analysis (EDA):**
   + **Feature engineering:**
