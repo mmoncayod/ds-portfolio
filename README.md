@@ -20,7 +20,7 @@
 + **Frontend Web Developer** - Freelance
 
 # Projects
-+ **ML model to create personalized treatment protocols for pets**
++ ## **ML model to create personalized treatment protocols for pets**
   + Overview
   + Data collection
   + Data cleaning and preprocessing
@@ -32,7 +32,7 @@
   + Model deployment
   + Conclusions and future steps
     
-+ **Product recommendation system for restaurants**
++ ##**Product recommendation system for restaurants**
   + Overview
   + Data collection
   + Data cleaning and preprocessing
@@ -44,7 +44,7 @@
   + Model deployment
   + Conclusions and future steps
 
-+ **Genetic Diversity Analysis in _Diaphorina citri_ Using Mitochondrial DNA Sequencing**
++ ##**Genetic Diversity Analysis in _Diaphorina citri_ Using Mitochondrial DNA Sequencing**
   + **Objective:** To analyze the mitochondrial DNA sequences of _Diaphorina citri_ to assess genetic diversity and population structure, and predict potential spread and evolution of the citrus greening disease.
     
   + **Overview:** _Diaphorina citri_, the Asian citrus psyllid, is a vector for the bacterium _Candidatus Liberibacter_ which causes the citrus greening disease, severely impacting citrus production worldwide and understanding the genetic variation within _D. citri_ populations is crucial for developing effective management strategies against the spread of the disease.
