@@ -55,6 +55,7 @@
       
       + Phed system assigns a score as follows:
       ![Texto alternativo](/assets/img/prhed_results.png)
+      ![Texto alternativo](/assets/img/prhed_punctuation.png)
     + Where:
       + Scores of 20 or more: High quality, with an error rate of 1% or less.
       + Scores of 30 or more: Very high quality, with an error rate of 0.1% or less.
