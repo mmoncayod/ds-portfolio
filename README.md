@@ -97,7 +97,7 @@
   + **Exploratory data analysis (EDA):**
     + Base proportion per each population
 
-      ![Texto alternativo](/assets/img/base_proportion_population_E.png) ![Texto alternativo](/assets/img/base_proportion_population_V.png)
+      ![Texto alternativo](/assets/img/base_proportion_popultion_E.png) ![Texto alternativo](/assets/img/base_proportion_populartion_V.png)
 
   + **Feature engineering:**
   + **Model selection:**
