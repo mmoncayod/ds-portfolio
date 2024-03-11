@@ -53,9 +53,11 @@
 **Extract-Transform-Load:** The project utilized mitochondrial DNA sequences of _D. citri_ collected from eight locations across two Colombian regions, Valle del Cauca and Quindío. **Macrogen Korea sequenced mitochondrial DNA.**
 
   + **Phed quality system as criteria for sequence cutting**
+    
       ![Texto alternativo](/assets/img/prhed_punctuation.png)
       
-  + Phed system assigns a score as follows:
+  + **Phed system assigns a score as follows:**
+    
       ![Texto alternativo](/assets/img/phred_results.png)
 
      + Where:
@@ -66,6 +68,7 @@
     Phred quality scores tell you the reliability of each base read during sequencing. By trimming sequences based on these scores, you are removing sections of sequences with a high probability of being in error, which can distort your results during alignment and subsequent analyses.
 
     + **Saving the trimmed sequences for alignment in Clutscal Omega**
+      
        ![Texto alternativo](/assets/img/trimmed-1.png)
 
       See the complete code to get consensus sequences in Jupiter Notebook [link](https://github.com/mmoncayod/ds-portfolio/blob/main/1.ETL.ipynb) 
