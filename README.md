@@ -94,7 +94,7 @@
       
       See the complete code to get consensus sequences in notebook [link](https://github.com/mmoncayod/ds-portfolio)
 
-  + ## **Exploratory data analysis (EDA):**
+  + ### **Exploratory data analysis (EDA):**
   + **Feature engineering:**
   + **Model selection:**
   + **Model training:**
