@@ -10,7 +10,7 @@
 
 + **Data scientist** @ My Pet's City / Booking platform for veterinary services
 + **CPO** @ Raiil / AI / SaaS / E-commerce / Restaurant-Supplier ordering platform
-+ **CEO** & Co-founder
++ **CEO** & Co-founder Raiil / AI / SaaS / E-commerce / Restaurant-Supplier ordering platform
 + **Startup analyst** @ Bioexpert network / BI & Reporting
 + **Professor in Bioengineering** @ Universidad Militar Nueva Granada
 + **Patent analyst** @ Government Patent Office Colombia
@@ -94,7 +94,11 @@
       
       See the complete code to get consensus sequences in notebook [link](https://github.com/mmoncayod/ds-portfolio)
 
-  + ### **Exploratory data analysis (EDA):**
+  + **Exploratory data analysis (EDA):**
+    + Base proportion per each population
+
+      ![Texto alternativo](/assets/img/base_proportion_population_E.png) ![Texto alternativo](/assets/img/base_proportion_population_V.png)
+
   + **Feature engineering:**
   + **Model selection:**
   + **Model training:**
