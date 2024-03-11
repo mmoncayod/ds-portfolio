@@ -95,9 +95,15 @@
       See the complete code to get consensus sequences in notebook [link](https://github.com/mmoncayod/ds-portfolio)
 
   + **Exploratory data analysis (EDA):**
-    + Haplotypes analysis for COI gene in D. Citri DNA sequences
+    + **Haplotypes analysis for COI gene in D. Citri DNA sequences**
 
       ![Texto alternativo](/assets/img/haplotypes-dashboard.png)
+
+      The V population showed lower haplotype frequencies compared to the E population, with 14 and 17 different matrilineal lineages respectively, indicating diverse and representative genetic variability suitable for intraspecific variability analyses in these regions. The most frequent haplotypes in V were 1, 8, 10, and 11, with 8 appearing four times across two locations. In contrast, E's most common were 3 and 8, with haplotype 3 found twice in San Juan.
+
+       Both La Rivera (V) and Calarcá (E) had the highest haplotype diversity with seven each. Despite some haplotype overlap, natural barriers likely limit gene flow between populations.
+
+      There are signs of mitochondrial heteroplasmy in individuals from Jamaica and Brazil in Valle del Cauca, and both regions exhibit a significant number of unique haplotypes, which might be explained by point mutations leading to unique proteins that respond differently to environmental selection pressures, or multiple introductions into already variable populations.
 
   + **Conclusions and future perspectives:**
 
