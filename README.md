@@ -23,6 +23,7 @@
 + ## **ML model to create personalized treatment protocols for pets**
   + Overview
   + Data collection
+    Data were simulates as we collect data from real transactions. This simulated data was crete for model development only. 
   + Data cleaning and preprocessing
   + Exploratory data analysis (EDA)
   + Feature engineering
