@@ -68,7 +68,7 @@
     + ** Saving the trimmed sequences for alignment in Clutscal Omega **
        ![Texto alternativo](/assets/img/trimmed-1.png)
 
-      See the complete code to save the trimmed sequences based on Phed System in notebook [link](https://github.com/mmoncayod/ds-portfolio)
+      See the complete code to get consensus sequences in Jupiter Notebook [link](https://github.com/mmoncayod/ds-portfolio](https://github.com/mmoncayod/ds-portfolio/blob/main/1.ETL.ipynb)
    
     + **Sequence aligning**
       
@@ -92,7 +92,7 @@
    
       ![Texto alternativo](/assets/img/aligned_sequence_V.png)
       
-      See the complete code to get consensus sequences in notebook [link](https://github.com/mmoncayod/ds-portfolio)
+      See the complete code to get consensus sequences in Jupiter Notebook [link](https://github.com/mmoncayod/ds-portfolio](https://github.com/mmoncayod/ds-portfolio/blob/main/1.ETL.ipynb)
 
   + **Exploratory data analysis (EDA):**
     + **Haplotypes analysis for COI gene in D. Citri DNA sequences**
