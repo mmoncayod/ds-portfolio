@@ -68,7 +68,7 @@
     + ** Saving the trimmed sequences for alignment in Clutscal Omega **
        ![Texto alternativo](/assets/img/trimmed-1.png)
 
-      See the complete code to get consensus sequences in Jupiter Notebook [link](https://github.com/mmoncayod/ds-portfolio](https://github.com/mmoncayod/ds-portfolio/blob/main/1.ETL.ipynb)
+      See the complete code to get consensus sequences in Jupiter Notebook [link text](https://github.com/mmoncayod/ds-portfolio](https://github.com/mmoncayod/ds-portfolio/blob/main/1.ETL.ipynb) 
    
     + **Sequence aligning**
       
