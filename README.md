@@ -100,9 +100,9 @@
       ![Texto alternativo](/assets/img/base_proportion_popultion_E.png) ![Texto alternativo](/assets/img/base_proportion_populartion_V.png)
 
       <p float="left">
-  <img src="/assets/img/base_proportion_popultion_E.png" width="300" />
-  <img src="/assets/img/base_proportion_populartion_V.png" width="300" /> 
-</p>
+        <img src="/assets/img/base_proportion_popultion_E.png" width="300" />
+        <img src="/assets/img/base_proportion_populartion_V.png" width="300" /> 
+      </p>
 
 
   + **Feature engineering:**
