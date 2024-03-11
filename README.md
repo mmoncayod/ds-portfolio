@@ -103,9 +103,9 @@
 
        Both La Rivera (V) and Calarcá (E) had the highest haplotype diversity with seven each. Despite some haplotype overlap, natural barriers likely limit gene flow between populations.
 
-      There are signs of mitochondrial heteroplasmy in individuals from Jamaica and Brazil in Valle del Cauca, and both regions exhibit a significant number of unique haplotypes, which might be explained by point mutations leading to unique proteins that respond differently to environmental selection pressures, or multiple introductions into already variable populations.
+      There are signs of mitochondrial heteroplasmy in individuals from Jamaica and Brazil in V, and both regions exhibit a significant number of unique haplotypes, which might be explained by point mutations leading to unique proteins that respond differently to environmental selection pressures, or multiple introductions into already variable populations.
 
-      See the complete interactive dashboard in Tableu [link]([https://github.com/mmoncayod/ds-portfolio](https://public.tableau.com/app/profile/miguel.ngel.moncayo.donoso/viz/HaplotypesanalysisforCOIgeneinD_CitriDNAsequences/Dashboard1?publish=yes)https://public.tableau.com/app/profile/miguel.ngel.moncayo.donoso/viz/HaplotypesanalysisforCOIgeneinD_CitriDNAsequences/Dashboard1?publish=yes)
+      See the complete interactive dashboard in Tableu [link](https://public.tableau.com/app/profile/miguel.ngel.moncayo.donoso/viz/HaplotypesanalysisforCOIgeneinD_CitriDNAsequences/Dashboard1)
 
   + **Conclusions and future perspectives:**
 
