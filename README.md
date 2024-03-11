@@ -46,7 +46,7 @@
 
 + ## **Genetic Diversity Analysis in _Diaphorina citri_ Using Mitochondrial DNA Sequencing**
   
-
+**Objective:** To analyze the mitochondrial DNA sequences of _Diaphorina citri_ to assess genetic diversity and population structure, and predict the potential spread and evolution of the citrus greening disease.
 
   + **Phed quality system as criteria for sequence cutting**
       ![Texto alternativo](/assets/img/prhed_punctuation.png)
