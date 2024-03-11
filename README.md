@@ -44,7 +44,7 @@
   + Model Deployment
   + Conclusions and future steps
 
-+ ## **Genetic Diversity Analysis in _Diaphorina citri_ Using Mitochondrial DNA Sequencing**
++ ## Genetic Diversity Analysis in _Diaphorina citri_ Using Mitochondrial DNA Sequencing
   + ### **Objective:** To analyze the mitochondrial DNA sequences of _Diaphorina citri_ to assess genetic diversity and population structure, and predict the potential spread and evolution of the citrus greening disease.
     
   + ### **Overview:** _Diaphorina citri_, the Asian citrus psyllid, is a vector for the bacterium _Candidatus Liberibacter_ which causes the citrus greening disease, severely impacting citrus production worldwide and understanding the genetic variation within _D. citri_ populations is crucial for developing effective management strategies against the spread of the disease.
@@ -67,7 +67,7 @@
     + ** Saving the trimmed sequences for alignment in Clutscal Omega **
        ![Texto alternativo](/assets/img/trimmed-1.png)
 
-      See the complete code to save the trimmed sequences based on Phed System in [link](https://github.com/mmoncayod/ds-portfolio)
+      See the complete code to save the trimmed sequences based on Phed System in notebook [link](https://github.com/mmoncayod/ds-portfolio)
    
     + **Sequence aligning**
       
@@ -91,7 +91,7 @@
    
       ![Texto alternativo](/assets/img/aligned_sequence_V.png)
       
-      See the complete code to get consensus sequences in [link](https://github.com/mmoncayod/ds-portfolio)
+      See the complete code to get consensus sequences in notebook [link](https://github.com/mmoncayod/ds-portfolio)
 
   + ### **Exploratory data analysis (EDA):**
   + **Feature engineering:**
