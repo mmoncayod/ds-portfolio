@@ -109,7 +109,7 @@
 
   + **Conclusions and future perspectives:**
 
-
+The genetic structuring results indicate that _D. citri_ populations in V and E populations are expanding, yet no significant genetic differentiation exists that might give rise to new biotypes capable of adapting to novel environments or hosting other variants of the _Candidatus liberibacter_ bacterium.
     
 
     
