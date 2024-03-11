@@ -95,13 +95,11 @@
       See the complete code to get consensus sequences in notebook [link](https://github.com/mmoncayod/ds-portfolio)
 
   + **Exploratory data analysis (EDA):**
-    + Base proportion per each population
+    + Haplotypes analysis for COI gene in D. Citri DNA sequences
 
-      ![Texto alternativo](/assets/img/base_proportion_popultion_E.png)
-      ![Texto alternativo](/assets/img/base_proportion_populartion_V.png)
+      ![Texto alternativo](/assets/img/haplotypes-dashboard.png)
 
-  + **Data visualization in Tableu:**
-  + **Conclusions and future steps:**
+  + **Conclusions and future perspectives:**
 
 
     
