@@ -97,16 +97,10 @@
   + **Exploratory data analysis (EDA):**
     + Base proportion per each population
 
-      ![Texto alternativo](/assets/img/base_proportion_popultion_E.png) ![Texto alternativo](/assets/img/base_proportion_populartion_V.png)
+      ![Texto alternativo](/assets/img/base_proportion_popultion_E.png)
+      ![Texto alternativo](/assets/img/base_proportion_populartion_V.png)
 
-<img src="/assets/img/base_proportion_populartion_V.png" alt="Texto alternativo" width="300"/>
-
-
-  + **Feature engineering:**
-  + **Model selection:**
-  + **Model training:**
-  + **Model evaluation:**
-  + **Model deployment:**
+  + **Data visualization in Tableu:**
   + **Conclusions and future steps:**
 
 
