@@ -65,10 +65,10 @@
 
     Phred quality scores tell you the reliability of each base read during sequencing. By trimming sequences based on these scores, you are removing sections of sequences with a high probability of being in error, which can distort your results during alignment and subsequent analyses.
 
-    + ** Saving the trimmed sequences for alignment in Clutscal Omega **
+    + **Saving the trimmed sequences for alignment in Clutscal Omega**
        ![Texto alternativo](/assets/img/trimmed-1.png)
 
-      See the complete code to get consensus sequences in Jupiter Notebook [link text](https://github.com/mmoncayod/ds-portfolio](https://github.com/mmoncayod/ds-portfolio/blob/main/1.ETL.ipynb) 
+      See the complete code to get consensus sequences in Jupiter Notebook [link](https://github.com/mmoncayod/ds-portfolio/blob/main/1.ETL.ipynb) 
    
     + **Sequence aligning**
       
@@ -92,7 +92,7 @@
    
       ![Texto alternativo](/assets/img/aligned_sequence_V.png)
       
-      See the complete code to get consensus sequences in Jupiter Notebook [link](https://github.com/mmoncayod/ds-portfolio](https://github.com/mmoncayod/ds-portfolio/blob/main/1.ETL.ipynb)
+      See the complete code to get consensus sequences in Jupiter Notebook [link](https://github.com/mmoncayod/ds-portfolio/blob/main/1.ETL.ipynb) 
 
   + **Exploratory data analysis (EDA):**
     + **Haplotypes analysis for COI gene in D. Citri DNA sequences**
