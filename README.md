@@ -91,7 +91,7 @@ For Raiil, a company committed to streamlining the restaurant supply chain throu
 
 ![Texto alternativo](/assets/img/nule-values-commands.png)
 
-![Texto alternativo](/assets/img/nule-values-retaurants.png)
+![Texto alternativo](/assets/img/nule-values-restaurants.png)
 
 No null values were detected.
 
@@ -118,6 +118,17 @@ An empty data frame means there are no duplicated rows.
 ![Texto alternativo](/assets/img/duplicates.png)
 
 ![Texto alternativo](/assets/img/duplicates-result.png)
+
+**Verifying data relationship**
+
+* Orders-Restaurants Relationships (Every Restaurant ID in orders_df should exist in restaurant_df)
+* Orders-Products Relationships(Every Product ID in orders_df should exist in products_df)
+* Products-Suppliers Relationships(Every Supplier ID in products_df should exist in suppliers_df)
+* Products-Suppliers Relationships(Every Supplier ID in products_df should exist in suppliers_df)
+
+![Texto alternativo](/assets/img/data-relationship.png)
+
+See the complete analysis in Jupiter Notebook: [link](https://github.com/mmoncayod/ds-portfolio/blob/main/2_data_cleaning.ipynb) 
 
   + Exploratory data analysis (EDA)
   + Feature engineering
