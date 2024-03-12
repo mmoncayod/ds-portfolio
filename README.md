@@ -35,6 +35,9 @@
     
 + ## **Product recommendation system for restaurants**
   + Overview
+    
+For Raiil, a company committed to streamlining the restaurant supply chain through transparent order management, tracking, and payments, I developed a product recommendation system tailored for restaurants. This innovative system leverages historical ordering data to deliver personalized product suggestions, enhancing the connections between restaurants and suppliers and facilitating a more efficient supply chain process.
+
   + Data collection
   + Data cleaning and preprocessing
   + Exploratory data analysis (EDA)
