@@ -79,8 +79,45 @@ For Raiil, a company committed to streamlining the restaurant supply chain throu
 
  After creating the data frames, they were exported to CSV files to undergo further data cleaning and processing.
     
-  + Data cleaning and preprocessing
+  + #### **Data cleaning and preprocessing**
 
+**Verifying Total entries - non-null values and data types**
+
+![Texto alternativo](/assets/img/data-entries-commands.png)
+
+![Texto alternativo](/assets/img/data-entries-restaurants.png)
+
+**Verifying null values within data frames**
+
+![Texto alternativo](/assets/img/nule-values-commands.png)
+
+![Texto alternativo](/assets/img/nule-values-retaurants.png)
+
+No null values were detected.
+
+**Identifying duplicates and outliers within data frames**
+
+Outliers
+
+![Texto alternativo](/assets/img/outliers.png)
+
+![Texto alternativo](/assets/img/outliers-result.png)
+
+Duplicates
+
+Every column within each row should match every column within the other row to be considered a duplicate.
+
+Ej:
+
+row 1: 1, 'Restaurant Name', 'Location', 'Italian', 'Medium', '$$'
+
+row 2: 1, 'Restaurant Name', 'Location', 'Italian', 'Medium', '$$'
+
+An empty data frame means there are no duplicated rows.
+
+![Texto alternativo](/assets/img/duplicates.png)
+
+![Texto alternativo](/assets/img/duplicates-result.png)
 
   + Exploratory data analysis (EDA)
   + Feature engineering
