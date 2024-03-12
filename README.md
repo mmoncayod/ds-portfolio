@@ -38,28 +38,28 @@
 For Raiil, a company committed to streamlining the restaurant supply chain through transparent order management, tracking, and payments, I developed a product recommendation system, tailored for restaurants. This innovative system leverages historical ordering data to deliver personalized product suggestions, enhancing the connections between restaurants and suppliers and facilitating a more efficient supply chain process.
 
   + #### **Data collection**
-    
+
     Raill didn`t have enough data to develop the model, so I created Python scripts to simulate artificial data to train a machine-learning model.
 
   + **Simulating the data for Restaurants, Products, Suppliers, and Orders.**
 
     I used the Faker library to simulate addresses and company names.
 
-    **Helper functions**
+  +  **Helper functions**
 
- + ##### **Helper functions for Restaurants**
+**Helper functions for Restaurants**
 
   ![Texto alternativo](/assets/img/helper-function-restaurants.png)
 
-+ **Helper functions for Products**
+**Helper functions for Products**
   
   ![Texto alternativo](/assets/img/helper-function-products.png)
   
-+ **Helper functions for Suppliers**
+**Helper functions for Suppliers**
 
   ![Texto alternativo](/assets/img/helper-function-suppliers.png)
 
-+ **Helper functions for Orders**
+**Helper functions for Orders**
 
   ![Texto alternativo](/assets/img/helper-function-orders.png)
 
@@ -67,9 +67,21 @@ For Raiil, a company committed to streamlining the restaurant supply chain throu
 
   ![Texto alternativo](/assets/img/restaurant-data-frame.png)
 
+  ![Texto alternativo](/assets/img/restaurants-data-frame-table.png)
+
   To see the complete data frame set visit: [link](https://github.com/mmoncayod/ds-portfolio/blob/main/1_data_simulation.ipynb) 
+
+  + **Verifying data frames relationships**
+
+  ![Texto alternativo](/assets/img/data-frames-relationship.png)
+
+  + **Exporting data frames**
+
+ After creating the data frames, they were exported to CSV files to undergo further data cleaning and processing.
     
   + Data cleaning and preprocessing
+
+
   + Exploratory data analysis (EDA)
   + Feature engineering
   + Model selection
