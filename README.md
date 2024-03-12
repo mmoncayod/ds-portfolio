@@ -63,7 +63,11 @@ For Raiil, a company committed to streamlining the restaurant supply chain throu
 
   ![Texto alternativo](/assets/img/helper-function-orders.png)
 
-  
+  Once the helper function for simulating the data was scripted I created a Pandas Data Frame for each entity. The restaurant data frame is presented as follows:
+
+  ![Texto alternativo](/assets/img/restaurant-data-frame.png)
+
+  To see the complete data frame set visit: [link](https://github.com/mmoncayod/ds-portfolio/blob/main/1_data_simulation.ipynb) 
     
   + Data cleaning and preprocessing
   + Exploratory data analysis (EDA)
