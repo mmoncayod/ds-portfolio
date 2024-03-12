@@ -38,7 +38,7 @@
     
 For Raiil, a company committed to streamlining the restaurant supply chain through transparent order management, tracking, and payments, I developed a product recommendation system tailored for restaurants. This innovative system leverages historical ordering data to deliver personalized product suggestions, enhancing the connections between restaurants and suppliers and facilitating a more efficient supply chain process.
 
-  + Data collection
+  + ##**Data collection**
     
     As Raill hadn`t had enough data to develop the model, I created Python scripts to simulate artificial data to get a data amount enough to train a machine learning model.
 
@@ -46,15 +46,21 @@ For Raiil, a company committed to streamlining the restaurant supply chain throu
 
     I used the Faker library to simulate adresses and company names.
 
-   ### **Helper functions**
+   ###**Helper functions**
 
  + **Helper functions for Restaurants**
 
   ![Texto alternativo](/assets/img/helper-function-restaurants.png)
+
++ **Helper functions for Products**
   
   ![Texto alternativo](/assets/img/helper-function-products.png)
+  
++ **Helper functions for Suppliers**
 
   ![Texto alternativo](/assets/img/helper-function-suppliers.png)
+
++ **Helper functions for Orders**
 
   ![Texto alternativo](/assets/img/helper-function-orders.png)
 
