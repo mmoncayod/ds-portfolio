@@ -33,7 +33,7 @@
   + Conclusions and future steps
     
 + ## **Product recommendation system for restaurants**
-  + **Overview**
+  + #### **Overview**
     
 For Raiil, a company committed to streamlining the restaurant supply chain through transparent order management, tracking, and payments, I developed a product recommendation system, tailored for restaurants. This innovative system leverages historical ordering data to deliver personalized product suggestions, enhancing the connections between restaurants and suppliers and facilitating a more efficient supply chain process.
 
@@ -45,9 +45,9 @@ For Raiil, a company committed to streamlining the restaurant supply chain throu
 
     I used the Faker library to simulate addresses and company names.
 
-   ### **Helper functions**
+    **Helper functions**
 
- + **Helper functions for Restaurants**
+ + ##### **Helper functions for Restaurants**
 
   ![Texto alternativo](/assets/img/helper-function-restaurants.png)
 
