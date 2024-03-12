@@ -23,7 +23,6 @@
 + ## **ML model to create personalized treatment protocols for pets**
   + Overview
   + Data collection
-    Data were simulates as we collect data from real transactions. This simulated data was crete for model development only. 
   + Data cleaning and preprocessing
   + Exploratory data analysis (EDA)
   + Feature engineering
@@ -36,9 +35,9 @@
 + ## **Product recommendation system for restaurants**
   + **Overview**
     
-For Raiil, a company committed to streamlining the restaurant supply chain through transparent order management, tracking, and payments, I developed a product recommendation system tailored for restaurants. This innovative system leverages historical ordering data to deliver personalized product suggestions, enhancing the connections between restaurants and suppliers and facilitating a more efficient supply chain process.
+For Raiil, a company committed to streamlining the restaurant supply chain through transparent order management, tracking, and payments, I developed a product recommendation system, tailored for restaurants. This innovative system leverages historical ordering data to deliver personalized product suggestions, enhancing the connections between restaurants and suppliers and facilitating a more efficient supply chain process.
 
-  + ### **Data collection**
+  + #### **Data collection**
     
     Raill didn`t have enough data to develop the model, so I created Python scripts to simulate artificial data to train a machine-learning model.
 
