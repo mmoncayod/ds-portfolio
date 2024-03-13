@@ -130,6 +130,8 @@ An empty data frame means there are no duplicated rows.
 
 See the complete analysis in Jupiter Notebook: [link](https://github.com/mmoncayod/ds-portfolio/blob/main/2_data_cleaning.ipynb) 
 
+Results were not goog enough having discordating data. For example. Inocherent restaurant, supplier or product names. I used a real data set haviung real restaurant, supplier and product names and used chat gpt to complete the data set with made up information like, location, size, quentity etc. 
+
   + Exploratory data analysis (EDA)
   + Feature engineering
   + Model selection
